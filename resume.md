@@ -6,7 +6,7 @@
 Sri Krishna College Of TechnologyCoimbatore, TamilNadu
 Bachelor of Engineering in Electronics And Communication2023 – 2027
 Bharathi Matric Hr Sec SchoolCoimbatore, TamilNadu
-##Higher Secondary2021 – 2023
+Higher Secondary2021 – 2023
 
 ## Experience
 Intern – Embedded Systems & IoT2024
